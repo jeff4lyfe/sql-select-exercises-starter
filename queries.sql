@@ -1,5 +1,5 @@
 /******************************************************************************\
-* AppAcademy JS/Py Online Week 10 - "Solving the SQL Menagerie"
+* AppAcademy JS/Py Online Week 10 - "Solving the SQL Menageri e"
 *
 *** Directions *****************************************************************
 *
